@@ -1,0 +1,18 @@
+/*Ajustes cabeçalho principal*/
+.head {
+    padding: 30px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+/*carrinho de compras*/
+.header {
+    float: right;
+    display: block;
+    color: 333;
+    text-align: center;
+    padding: 30px;
+    text-decoration: none;
+}
+
+/**/
